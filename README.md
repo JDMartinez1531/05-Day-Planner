@@ -34,4 +34,4 @@ A day planner that utilizes local storage to organize your daily schedule.
 
 ## Demo
 
-<img>assets\images\dayPlan.gif>
+<img src ="assets\images\dayPlan.gif">
