@@ -8,11 +8,9 @@ A day planner that utilizes local storage to organize your daily schedule.
 
 ### Dependencies
 
-[x]Jquery
-
-[x]Bootstrap
-
-[x]Moment.js
+[x] Jquery
+[x] Bootstrap
+[x] Moment.js
 
 ---
 
@@ -27,9 +25,7 @@ A day planner that utilizes local storage to organize your daily schedule.
 | Grey    | Past       |
 | ------- | ---------- |
 | Red     | Present    |
-| ------- | ---------- |
 | Green   | Future     |
-| ------- | ---------- |
 
 [Try it out](https://jdmartinez1531.github.io/05-Day-Planner/ "Day Planner")
 
