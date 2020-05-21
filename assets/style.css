@@ -15,7 +15,6 @@ textarea {
   height: 98%;
   line-height: normal;
   box-sizing: border-box;
-  position: inherit;
   bottom: 30px;
 }
 
@@ -37,7 +36,6 @@ textarea {
 }
 
 .row {
-  white-space: pre-wrap;
   height: 80px;
   border-top: 1px solid white;
 }
@@ -70,7 +68,6 @@ textarea {
   border-bottom-right-radius: 15px;
   background-color: #06aed5;
   color: white;
-  position: absolute;
   width: 100%;
   height: 100%;
   text-align: center;
@@ -83,6 +80,7 @@ textarea {
 
 .allcol {
   height: 80px;
+  padding-left: 0%;
 }
 
 .container {
