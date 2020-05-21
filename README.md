@@ -22,10 +22,11 @@ A day planner that utilizes local storage to organize your daily schedule.
 
 - Timeblocks are color coded to help keep track of where you are in your work day.
 
-| Grey    | Past       |
-| ------- | ---------- |
-| Red     | Present    |
-| Green   | Future     |
+| Timeblock | Indicator  |
+|  -------  | ---------- |
+|  Grey     | Past       |
+|  Red      | Present    |
+|  Green    | Future     |
 
 [Try it out](https://jdmartinez1531.github.io/05-Day-Planner/ "Day Planner")
 
