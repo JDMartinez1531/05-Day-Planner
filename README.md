@@ -8,11 +8,11 @@ A day planner that utilizes local storage to organize your daily schedule.
 
 ### Dependencies
 
-[x] Jquery
+[x]Jquery
 
-[x] Bootstrap
+[x]Bootstrap
 
-[x] Moment.js
+[x]Moment.js
 
 ---
 
