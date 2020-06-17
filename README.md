@@ -18,7 +18,7 @@ A day planner that utilizes local storage to organize your daily schedule.
 
 - Click on a box to enter notes for that hour.
 
-- click save button to save your notes
+- Click save button to save your notes
 
 - Timeblocks are color coded to help keep track of where you are in your work day.
 
