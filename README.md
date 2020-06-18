@@ -6,11 +6,31 @@ A day planner that utilizes local storage to organize your daily schedule.
 
 ---
 
+### Table of Contents
+
+- [Dependencies](#dependencies)
+- [Installation](#installation)
+- [Instructions](#instructions)
+- [Demo](#demo)
+
+
+---
+
 ### Dependencies
 
-- [x] Jquery
-- [x] Bootstrap
-- [x] Moment.js
+- Jquery
+- Bootstrap
+- Moment.js
+
+---
+
+### Installation
+
+To test this project, simply clone project into a your local file system and open `index.html` in your favorite browser.
+
+```
+git clone https://github.com/JDMartinez1531/05-Day-Planner.git
+```
 
 ---
 
@@ -28,10 +48,11 @@ A day planner that utilizes local storage to organize your daily schedule.
 |  Red      | Present    |
 |  Green    | Future     |
 
-[Try it out](https://jdmartinez1531.github.io/05-Day-Planner/ "Day Planner")
 
 ---
 
 ## Demo
 
 <img src ="assets\images\dayPlan.gif">
+
+[Demo](https://jdmartinez1531.github.io/05-Day-Planner/ "Day Planner")
